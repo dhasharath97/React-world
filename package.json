@@ -1,0 +1,31 @@
+{
+  "name": "react-world",
+  "version": "1.0.0",
+  "description": "This Is React World",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhasharath97/React-world.git"
+  },
+  "keywords": [
+    "React",
+    "World"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhasharath97/React-world/issues"
+  },
+  "homepage": "https://github.com/dhasharath97/React-world#readme",
+  "dependencies": {
+    "parcel": "^2.9.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
